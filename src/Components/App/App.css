@@ -6,3 +6,8 @@
   text-align: center;
   margin: 20px 0px;
 }
+
+.search-bar {
+  min-width: 200px;
+  max-width: 300px
+}
