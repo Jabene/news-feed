@@ -30,7 +30,7 @@ The project board can be found [here](https://github.com/Jabene/news-feed/projec
 ### <ins>Technologies</ins>
 
 #### Versions
-- MUI 5.2.6
+- react-bootstrap 2.1.0
 - react 17.0.2
 - router 6.0.0
  
